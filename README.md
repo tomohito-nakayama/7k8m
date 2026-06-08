@@ -31,6 +31,7 @@
 # Social links
 * [Facebook](https://www.facebook.com/Tomohito.Nakayama)
 * [X](https://x.com/7k8m)
+** [X as rakuten tomato](https://x.com/rakutentomato) 
 * [Mastodon (entomophagy.world)](https://entomophagy.world/@7k8m)
 * [Linktree](https://linktr.ee/7k8m)
 
